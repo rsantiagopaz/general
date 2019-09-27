@@ -30,7 +30,7 @@
 *  </pre>
 
  */
-qx.Class.define("componente.general.alejandro.List",
+qx.Class.define("componente.general.alejandro.ow.List",
 {
 
   /*
